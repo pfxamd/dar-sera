@@ -30,3 +30,7 @@ Homepage captures were reviewed at desktop and mobile widths. Room and booking c
 - Supplied WebP sources are smaller than the original brief’s requested master sizes. No artificial upscaling was applied.
 - Browser checks were performed in Chromium, not a claim of physical-device or every-browser certification.
 - No field Core Web Vitals measurements or production traffic data are available before deployment.
+
+## GitHub Pages preparation
+
+The production base is `/dar-sera/`. Internal links, favicon and generated assets are base-aware. The built HTML was checked for root-relative references escaping that base. Deployment uses one build-and-publish job, with image-cache reuse and no browser installation in CI. Enabling GitHub Actions as the repository Pages source is an administrative prerequisite.

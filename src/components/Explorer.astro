@@ -1,4 +1,5 @@
 ---
+import {sitePath} from '../lib/paths';
 import Photo from './Photo.astro';
 const spaces=[
  {key:'courtyard',label:'The Courtyard',level:'ground',id:1,description:'Open sky, pale stone and water at the centre of the house.',href:'/the-house/#courtyard',x:115,y:100,w:170,h:160},
@@ -19,7 +20,7 @@ const spaces=[
   <g data-plan-level="upper" style="display:none"><rect class="plan-void" x="115" y="100" width="170" height="160"/><text class="plan-note" x="200" y="180">OPEN TO BELOW</text>{spaces.filter(s=>s.level==='upper').map(s=><g class="plan-space" data-space-shape={s.key}><rect x={s.x} y={s.y} width={s.w} height={s.h}/><text x={s.x+s.w/2} y={s.y+s.h/2}>{s.key==='light-room'?'02':'03'}</text></g>)}<path class="gallery-line" d="M105 95H290V265H105Z"/><text class="plan-note" x="200" y="315">TIMBER GALLERY</text></g>
   <g data-plan-level="roof" style="display:none"><g class="plan-space" data-space-shape="rooftop"><rect x="40" y="40" width="320" height="280"/><text x="200" y="290">SHARED ROOFTOP</text></g><rect class="plan-void" x="130" y="105" width="140" height="135"/><text class="plan-note" x="200" y="175">OPEN COURTYARD</text><path class="gallery-line" d="M65 60v190m12-190v190m12-190v190m12-190v190"/></g></svg>
   <div class="space-buttons" aria-label="Select a space">{spaces.map(s=><button data-space={s.key} data-space-level={s.level} aria-pressed={s.key==='courtyard'?'true':'false'} hidden={s.level!=='ground'}>{s.label}<span aria-hidden="true">↗</span></button>)}</div><p class="map-caption">Schematic layout · not to scale <span>N ↑</span></p></div>
-  <div class="explorer-preview">{spaces.map((s,i)=><article data-space-panel={s.key} hidden={i!==0}><Photo id={s.id} sizes="(max-width: 800px) 100vw, 50vw"/><div class="preview-caption"><div><h3>{s.label}</h3><p>{s.description}</p></div><a href={s.href} aria-label={`Explore ${s.label}`} class="circle-link">↗</a></div></article>)}<span class="sr-only" aria-live="polite" data-map-status></span></div>
+  <div class="explorer-preview">{spaces.map((s,i)=><article data-space-panel={s.key} hidden={i!==0}><Photo id={s.id} sizes="(max-width: 800px) 100vw, 50vw"/><div class="preview-caption"><div><h3>{s.label}</h3><p>{s.description}</p></div><a href={sitePath(s.href)} aria-label={`Explore ${s.label}`} class="circle-link">↗</a></div></article>)}<span class="sr-only" aria-live="polite" data-map-status></span></div>
  </div></div>
 </section>
 <script>
@@ -29,4 +30,4 @@ document.querySelectorAll<HTMLElement>('[data-explorer]').forEach(root=>{
  root.querySelectorAll<HTMLButtonElement>('[data-level]').forEach(b=>b.addEventListener('click',()=>{const level=b.dataset.level;root.querySelectorAll<HTMLButtonElement>('[data-level]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));root.querySelectorAll<HTMLElement>('[data-space-level]').forEach(x=>x.hidden=x.dataset.spaceLevel!==level);root.querySelectorAll<SVGElement>('[data-plan-level]').forEach(x=>x.style.display=x.dataset.planLevel===level?'':'none');const first=root.querySelector<HTMLButtonElement>(`[data-space-level="${level}"]`);if(first)select(first.dataset.space!);}));
 });
 </script>
-<noscript><p class="wrap">Browse <a href="/the-house/">The House</a> and <a href="/rooms/">all four rooms</a> for the complete guide.</p></noscript>
+<noscript><p class="wrap">Browse <a href={sitePath('/the-house/')}>The House</a> and <a href={sitePath('/rooms/')}>all four rooms</a> for the complete guide.</p></noscript>

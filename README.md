@@ -47,18 +47,13 @@ End-to-end checks cover all 11 main routes at 390, 768, 1440 and 1920 px, full i
 
 For an existing Chromium installation, optionally set `CHROMIUM_PATH` when running browser checks. Screenshots are written to the ignored `test-results/screenshots/` folder. The small test server in `scripts/serve.mjs` serves only the built output and is not intended as a production server.
 
-## Cloudflare Pages
+## GitHub Pages
 
-This project produces plain static files and needs no adapter or server runtime.
+The site is configured for `https://pfxamd.github.io/dar-sera/`. All internal links, fonts, scripts, images and the favicon resolve under `/dar-sera/`.
 
-| Setting | Value |
-| --- | --- |
-| Build command | `npm run build` |
-| Output directory | `dist` |
-| Root directory | Repository root |
-| Node | 22.12+ |
+In repository **Settings → Pages**, select **GitHub Actions** as the source. The `Publish DAR SERA` workflow builds the static site and deploys the `dist` artifact. It can also be run manually. No browser tests run during deployment; those are performed locally. The image transformation cache is reused across publishing runs.
 
-No GitHub Actions workflow is included. Uploading this source does not publish the site. Before connecting a Git deployment, confirm publication permission. Set the final site origin and any desired canonical/social metadata when a real deployment domain is selected.
+For a different deployment path, change `site` and `base` in `astro.config.mjs` and update the browser-test mount accordingly.
 
 ## Content and image provenance
 
