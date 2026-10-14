@@ -1,0 +1,32 @@
+---
+import Photo from './Photo.astro';
+const spaces=[
+ {key:'courtyard',label:'The Courtyard',level:'ground',id:1,description:'Open sky, pale stone and water at the centre of the house.',href:'/the-house/#courtyard',x:115,y:100,w:170,h:160},
+ {key:'lounge',label:'The Lounge',level:'ground',id:3,description:'Linen seating and a quiet corner, just off the courtyard.',href:'/the-house/#lounge',x:15,y:100,w:90,h:160},
+ {key:'breakfast',label:'Breakfast Room',level:'ground',id:4,description:'A shared table, fresh bread and a gentle beginning to the day.',href:'/your-stay/',x:115,y:270,w:170,h:80},
+ {key:'courtyard-room',label:'Courtyard Room',level:'ground',id:7,description:'24 m² · Queen bed · Ground floor',href:'/rooms/courtyard-room/',x:115,y:10,w:170,h:80},
+ {key:'twin-room',label:'Twin Room',level:'ground',id:19,description:'30 m² · Two single beds · Ground floor',href:'/rooms/twin-room/',x:295,y:100,w:90,h:160},
+ {key:'light-room',label:'Light Room',level:'upper',id:11,description:'28 m² · King bed · Morning light',href:'/rooms/light-room/',x:295,y:100,w:90,h:160},
+ {key:'terrace-suite',label:'Terrace Suite',level:'upper',id:15,description:'36 m² + private terrace · King bed',href:'/rooms/terrace-suite/',x:115,y:10,w:170,h:80},
+ {key:'rooftop',label:'The Rooftop',level:'roof',id:5,description:'Late afternoon under the pergola, above the rhythm of the streets.',href:'/the-house/#rooftop',x:40,y:40,w:320,h:280}
+];
+---
+<section class="explorer section" aria-labelledby="explorer-title">
+ <div class="wrap"><div class="section-heading"><div><p class="eyebrow">A HOUSE TO DISCOVER</p><h2 id="explorer-title">Find your<br/><em>own corner.</em></h2></div><p>Four rooms around an open sky.<br/>Take a moment to look around.</p></div>
+ <div class="explorer-layout" data-explorer>
+  <div class="explorer-map"><div class="level-buttons" role="group" aria-label="House level"><button data-level="ground" aria-pressed="true">Ground floor</button><button data-level="upper" aria-pressed="false">Upper floor</button><button data-level="roof" aria-pressed="false">Rooftop</button></div>
+  <svg viewBox="0 0 400 370" class="floorplan" aria-label="Schematic house layout. Select a space below." role="img"><rect class="plan-outline" x="8" y="3" width="384" height="354"/><g data-plan-level="ground"><rect class="plan-void" x="115" y="100" width="170" height="160"/>{spaces.filter(s=>s.level==='ground').map(s=><g class:list={['plan-space',s.key==='courtyard'&&'selected']} data-space-shape={s.key}><rect x={s.x} y={s.y} width={s.w} height={s.h}/><text x={s.x+s.w/2} y={s.y+s.h/2}>{s.key==='courtyard-room'?'01':s.key==='twin-room'?'04':s.key==='courtyard'?'COURTYARD':s.key==='lounge'?'LOUNGE':'BREAKFAST'}</text></g>)}<rect class="plan-fountain" x="180" y="160" width="40" height="40"/><text class="plan-note" x="58" y="315">ENTRY ↗</text><text class="plan-note" x="338" y="305">STAIRS</text></g>
+  <g data-plan-level="upper" style="display:none"><rect class="plan-void" x="115" y="100" width="170" height="160"/><text class="plan-note" x="200" y="180">OPEN TO BELOW</text>{spaces.filter(s=>s.level==='upper').map(s=><g class="plan-space" data-space-shape={s.key}><rect x={s.x} y={s.y} width={s.w} height={s.h}/><text x={s.x+s.w/2} y={s.y+s.h/2}>{s.key==='light-room'?'02':'03'}</text></g>)}<path class="gallery-line" d="M105 95H290V265H105Z"/><text class="plan-note" x="200" y="315">TIMBER GALLERY</text></g>
+  <g data-plan-level="roof" style="display:none"><g class="plan-space" data-space-shape="rooftop"><rect x="40" y="40" width="320" height="280"/><text x="200" y="290">SHARED ROOFTOP</text></g><rect class="plan-void" x="130" y="105" width="140" height="135"/><text class="plan-note" x="200" y="175">OPEN COURTYARD</text><path class="gallery-line" d="M65 60v190m12-190v190m12-190v190m12-190v190"/></g></svg>
+  <div class="space-buttons" aria-label="Select a space">{spaces.map(s=><button data-space={s.key} data-space-level={s.level} aria-pressed={s.key==='courtyard'?'true':'false'} hidden={s.level!=='ground'}>{s.label}<span aria-hidden="true">↗</span></button>)}</div><p class="map-caption">Schematic layout · not to scale <span>N ↑</span></p></div>
+  <div class="explorer-preview">{spaces.map((s,i)=><article data-space-panel={s.key} hidden={i!==0}><Photo id={s.id} sizes="(max-width: 800px) 100vw, 50vw"/><div class="preview-caption"><div><h3>{s.label}</h3><p>{s.description}</p></div><a href={s.href} aria-label={`Explore ${s.label}`} class="circle-link">↗</a></div></article>)}<span class="sr-only" aria-live="polite" data-map-status></span></div>
+ </div></div>
+</section>
+<script>
+document.querySelectorAll<HTMLElement>('[data-explorer]').forEach(root=>{
+ const select=(key:string)=>{root.querySelectorAll<HTMLElement>('[data-space-panel]').forEach(p=>p.hidden=p.dataset.spacePanel!==key);root.querySelectorAll<HTMLButtonElement>('[data-space]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.space===key)));root.querySelectorAll('[data-space-shape]').forEach(s=>s.classList.toggle('selected',s.getAttribute('data-space-shape')===key));const status=root.querySelector('[data-map-status]');const button=root.querySelector(`[data-space="${key}"]`);if(status)status.textContent=`Showing ${button?.textContent?.replace('↗','').trim()}`;};
+ root.querySelectorAll<HTMLButtonElement>('[data-space]').forEach(b=>b.addEventListener('click',()=>select(b.dataset.space!)));
+ root.querySelectorAll<HTMLButtonElement>('[data-level]').forEach(b=>b.addEventListener('click',()=>{const level=b.dataset.level;root.querySelectorAll<HTMLButtonElement>('[data-level]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));root.querySelectorAll<HTMLElement>('[data-space-level]').forEach(x=>x.hidden=x.dataset.spaceLevel!==level);root.querySelectorAll<SVGElement>('[data-plan-level]').forEach(x=>x.style.display=x.dataset.planLevel===level?'':'none');const first=root.querySelector<HTMLButtonElement>(`[data-space-level="${level}"]`);if(first)select(first.dataset.space!);}));
+});
+</script>
+<noscript><p class="wrap">Browse <a href="/the-house/">The House</a> and <a href="/rooms/">all four rooms</a> for the complete guide.</p></noscript>

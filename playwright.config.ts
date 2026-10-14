@@ -1,0 +1,2 @@
+import {defineConfig} from '@playwright/test';
+export default defineConfig({testDir:'./tests/e2e',workers:1,fullyParallel:false,timeout:45000,use:{baseURL:'http://127.0.0.1:4321',launchOptions:process.env.CHROMIUM_PATH?{executablePath:process.env.CHROMIUM_PATH,args:['--no-sandbox','--no-zygote','--single-process','--disable-dev-shm-usage','--use-gl=angle','--use-angle=swiftshader','--enable-unsafe-swiftshader']}:{}},webServer:{command:'node scripts/serve.mjs',url:'http://127.0.0.1:4321',reuseExistingServer:false}});

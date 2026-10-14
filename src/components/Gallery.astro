@@ -1,0 +1,14 @@
+---
+import Photo from './Photo.astro';
+import {imageDescriptions} from '../data';
+interface Props {images:readonly number[];name:string;}
+const {images,name}=Astro.props;
+---
+<section class="wrap section gallery-section" aria-label={`${name} photographs`} data-gallery>
+ <div class="section-heading"><h2>A closer <em>look.</em></h2><span class="eyebrow">{images.length} PHOTOGRAPHS · SELECT TO EXPLORE</span></div>
+ <div class="gallery-grid">{images.map((id,i)=><button data-gallery-index={i} aria-label={`Enlarge: ${imageDescriptions[id-1]}`}><Photo id={id} sizes="(max-width: 700px) 90vw, 45vw"/><span>{String(i+1).padStart(2,'0')} <span aria-hidden="true">↗</span></span></button>)}</div>
+ <dialog class="gallery-dialog" aria-label={`${name} image viewer`}><button class="gallery-close">Close ×</button><div class="gallery-stage">{images.map((id,i)=><div data-slide={i} hidden={i!==0}><Photo id={id} sizes="95vw"/><p>{imageDescriptions[id-1]}</p></div>)}</div><div class="gallery-controls"><button data-prev aria-label="Previous photograph">←</button><span data-gallery-count aria-live="polite">1 / {images.length}</span><button data-next aria-label="Next photograph">→</button></div></dialog>
+</section>
+<script>
+document.querySelectorAll<HTMLElement>('[data-gallery]').forEach(root=>{const dialog=root.querySelector<HTMLDialogElement>('dialog')!;const slides=Array.from(root.querySelectorAll<HTMLElement>('[data-slide]'));let index=0;let opener:HTMLElement|null=null;const show=(n:number)=>{index=(n+slides.length)%slides.length;slides.forEach((s,i)=>s.hidden=i!==index);root.querySelector('[data-gallery-count]')!.textContent=`${index+1} / ${slides.length}`;};root.querySelectorAll<HTMLButtonElement>('[data-gallery-index]').forEach(b=>b.addEventListener('click',()=>{opener=b;show(Number(b.dataset.galleryIndex));dialog.showModal();document.body.classList.add('dialog-open');}));root.querySelector('.gallery-close')!.addEventListener('click',()=>dialog.close());root.querySelector('[data-prev]')!.addEventListener('click',()=>show(index-1));root.querySelector('[data-next]')!.addEventListener('click',()=>show(index+1));dialog.addEventListener('keydown',e=>{if(e.key==='ArrowRight'){e.preventDefault();show(index+1);}if(e.key==='ArrowLeft'){e.preventDefault();show(index-1);}});dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close();});dialog.addEventListener('close',()=>{document.body.classList.remove('dialog-open');opener?.focus();});});
+</script>

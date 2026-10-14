@@ -1,0 +1,734 @@
+{
+  "count": 28,
+  "upscaled": false,
+  "records": [
+    {
+      "id": 1,
+      "filename": "01-courtyard-hero.webp",
+      "path": "src/assets/images/01-courtyard-hero.webp",
+      "actual": {
+        "width": 1672,
+        "height": 941,
+        "format": "webp",
+        "bytes": 163852
+      },
+      "briefTarget": {
+        "width": 3200,
+        "height": 1800
+      },
+      "aspectRatio": "16:9",
+      "alt": "The open courtyard, green-tiled fountain and timber gallery",
+      "caption": "The open courtyard, green-tiled fountain and timber gallery",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/the-house/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "b50759f1699b7ca018026d493c1132c71d11f2f22c19fc292a7fffde0f416ea8"
+    },
+    {
+      "id": 2,
+      "filename": "02-entrance.webp",
+      "path": "src/assets/images/02-entrance.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 139062
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "An arched entrance passage opening into the courtyard",
+      "caption": "An arched entrance passage opening into the courtyard",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/the-house/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "36f812d64d737a93bd4634c5c3ecbeeb8cc797ab2e0fef3aa549cd4de745a78e"
+    },
+    {
+      "id": 3,
+      "filename": "03-lounge.webp",
+      "path": "src/assets/images/03-lounge.webp",
+      "actual": {
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "bytes": 227312
+      },
+      "briefTarget": {
+        "width": 3000,
+        "height": 2000
+      },
+      "aspectRatio": "3:2",
+      "alt": "Linen seating and timber chairs in the shared lounge",
+      "caption": "Linen seating and timber chairs in the shared lounge",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/the-house/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "6368d103d2e25229c73b6cc2c02d711ba79b424f376d5969a28b88809b9f0a7d"
+    },
+    {
+      "id": 4,
+      "filename": "04-breakfast-room.webp",
+      "path": "src/assets/images/04-breakfast-room.webp",
+      "actual": {
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "bytes": 232870
+      },
+      "briefTarget": {
+        "width": 3000,
+        "height": 2000
+      },
+      "aspectRatio": "3:2",
+      "alt": "A timber breakfast table beside the courtyard",
+      "caption": "A timber breakfast table beside the courtyard",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/the-house/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "99c30340b2a74ee6d7cff16ceb054a7d4fb73bea32df512376b96941e568e491"
+    },
+    {
+      "id": 5,
+      "filename": "05-rooftop.webp",
+      "path": "src/assets/images/05-rooftop.webp",
+      "actual": {
+        "width": 1672,
+        "height": 941,
+        "format": "webp",
+        "bytes": 270252
+      },
+      "briefTarget": {
+        "width": 3200,
+        "height": 1800
+      },
+      "aspectRatio": "16:9",
+      "alt": "The communal rooftop with pergola and afternoon light",
+      "caption": "The communal rooftop with pergola and afternoon light",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/the-house/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "fc3cf0b825f6367cb88346a7b7c72b2a726b89ae4dd99c945f078e315a273c01"
+    },
+    {
+      "id": 6,
+      "filename": "06-stair-gallery.webp",
+      "path": "src/assets/images/06-stair-gallery.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 189556
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Timber gallery and staircase overlooking the courtyard",
+      "caption": "Timber gallery and staircase overlooking the courtyard",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/the-house/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "822fe3520325b8028ac64dfbcce81ad6404ab1ef9d7c7823cc995b1d87142ff9"
+    },
+    {
+      "id": 7,
+      "filename": "07-courtyard-room-wide.webp",
+      "path": "src/assets/images/07-courtyard-room-wide.webp",
+      "actual": {
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "bytes": 209208
+      },
+      "briefTarget": {
+        "width": 3000,
+        "height": 2000
+      },
+      "aspectRatio": "3:2",
+      "alt": "Queen bed and timber furniture in Courtyard Room",
+      "caption": "Queen bed and timber furniture in Courtyard Room",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/courtyard-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "9a6342414dc52283ad43d2077abec88142eefba4fd765dd78b90e0e30221df47"
+    },
+    {
+      "id": 8,
+      "filename": "08-courtyard-room-outlook.webp",
+      "path": "src/assets/images/08-courtyard-room-outlook.webp",
+      "actual": {
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "bytes": 158738
+      },
+      "briefTarget": {
+        "width": 3000,
+        "height": 2000
+      },
+      "aspectRatio": "3:2",
+      "alt": "Courtyard Room opening onto the fountain courtyard",
+      "caption": "Courtyard Room opening onto the fountain courtyard",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/courtyard-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "152760c0edd12c1c4c3e8fd4608583b1bc896890ceb7733a5d9efbed6f7ab561"
+    },
+    {
+      "id": 9,
+      "filename": "09-courtyard-room-bathroom.webp",
+      "path": "src/assets/images/09-courtyard-room-bathroom.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 129302
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Courtyard Room private shower and stone basin",
+      "caption": "Courtyard Room private shower and stone basin",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/courtyard-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "7ff4f71da1f979845c195fdcabfef83a1477c57d93c9c8ffa68def487e8dfa81"
+    },
+    {
+      "id": 10,
+      "filename": "10-courtyard-room-detail.webp",
+      "path": "src/assets/images/10-courtyard-room-detail.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 141880
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Writing desk and linen curtain in Courtyard Room",
+      "caption": "Writing desk and linen curtain in Courtyard Room",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/courtyard-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "8735183b1ae491e635043162b2314ac0be5b5425072c274725924f873231950b"
+    },
+    {
+      "id": 11,
+      "filename": "11-light-room-wide.webp",
+      "path": "src/assets/images/11-light-room-wide.webp",
+      "actual": {
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "bytes": 187064
+      },
+      "briefTarget": {
+        "width": 3000,
+        "height": 2000
+      },
+      "aspectRatio": "3:2",
+      "alt": "King bed and morning light in Light Room",
+      "caption": "King bed and morning light in Light Room",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/light-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "a9a88104b9cede7fe1d52609c08f72ab38e4619b1d67db5ba165fee05286b9a1"
+    },
+    {
+      "id": 12,
+      "filename": "12-light-room-window.webp",
+      "path": "src/assets/images/12-light-room-window.webp",
+      "actual": {
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "bytes": 188258
+      },
+      "briefTarget": {
+        "width": 3000,
+        "height": 2000
+      },
+      "aspectRatio": "3:2",
+      "alt": "Light Room window and reading chair",
+      "caption": "Light Room window and reading chair",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/light-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "e38ae22e6be22f0449e51a3c9167ee5498f921d8c880516545d9e566207c38d0"
+    },
+    {
+      "id": 13,
+      "filename": "13-light-room-bathroom.webp",
+      "path": "src/assets/images/13-light-room-bathroom.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 147448
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Light Room private stone shower room",
+      "caption": "Light Room private stone shower room",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/light-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "a50458b6254379f66ef9e6395b04b3329af748f0c242dd5234e59b8d1bc7a917"
+    },
+    {
+      "id": 14,
+      "filename": "14-light-room-reading-detail.webp",
+      "path": "src/assets/images/14-light-room-reading-detail.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 147278
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Reading chair beside the timber shutters in Light Room",
+      "caption": "Reading chair beside the timber shutters in Light Room",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/light-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "6383caebc6c8a0966424029ef45bdae78201486eb46eba93e8c504a5e78bff9d"
+    },
+    {
+      "id": 15,
+      "filename": "15-terrace-suite-wide.webp",
+      "path": "src/assets/images/15-terrace-suite-wide.webp",
+      "actual": {
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "bytes": 204754
+      },
+      "briefTarget": {
+        "width": 3000,
+        "height": 2000
+      },
+      "aspectRatio": "3:2",
+      "alt": "Terrace Suite king bed and doors to the private terrace",
+      "caption": "Terrace Suite king bed and doors to the private terrace",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/terrace-suite/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "95a4fe1acd9f646496010cb722aa27b1ef5caf10b2fcebe641edde1db60a4be4"
+    },
+    {
+      "id": 16,
+      "filename": "16-terrace-suite-private-terrace.webp",
+      "path": "src/assets/images/16-terrace-suite-private-terrace.webp",
+      "actual": {
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "bytes": 183826
+      },
+      "briefTarget": {
+        "width": 3000,
+        "height": 2000
+      },
+      "aspectRatio": "3:2",
+      "alt": "Two chairs on the suite’s private terrace",
+      "caption": "Two chairs on the suite’s private terrace",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/terrace-suite/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "187ae211f528bbbfeb0aacd2fc86bedf3de32a763f3fca4d6fb161eaac9c122a"
+    },
+    {
+      "id": 17,
+      "filename": "17-terrace-suite-bathroom.webp",
+      "path": "src/assets/images/17-terrace-suite-bathroom.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 182158
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Terrace Suite private shower and stone vanity",
+      "caption": "Terrace Suite private shower and stone vanity",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/terrace-suite/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "0d7dd65d562a5afcb9c2fac2536b9077534692ba879482f908df84e59c3a3701"
+    },
+    {
+      "id": 18,
+      "filename": "18-terrace-suite-sitting-detail.webp",
+      "path": "src/assets/images/18-terrace-suite-sitting-detail.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 178636
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Olive seating and timber table in Terrace Suite",
+      "caption": "Olive seating and timber table in Terrace Suite",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/terrace-suite/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "73293df66902968db359f77c0209699a5399d2919afb9e3fa41f8ae709f28029"
+    },
+    {
+      "id": 19,
+      "filename": "19-twin-room-wide.webp",
+      "path": "src/assets/images/19-twin-room-wide.webp",
+      "actual": {
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "bytes": 221704
+      },
+      "briefTarget": {
+        "width": 3000,
+        "height": 2000
+      },
+      "aspectRatio": "3:2",
+      "alt": "Two separate single beds in Twin Room",
+      "caption": "Two separate single beds in Twin Room",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/twin-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "4d0293ce6414e0d18c1646de458924f83710abe46d28483b6e78c95e55587503"
+    },
+    {
+      "id": 20,
+      "filename": "20-twin-room-outlook.webp",
+      "path": "src/assets/images/20-twin-room-outlook.webp",
+      "actual": {
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "bytes": 201530
+      },
+      "briefTarget": {
+        "width": 3000,
+        "height": 2000
+      },
+      "aspectRatio": "3:2",
+      "alt": "Twin Room facing the courtyard",
+      "caption": "Twin Room facing the courtyard",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/twin-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "ceaa264f7d9976f0065d5f07c61e42fcc766cad10a8b35081959103499234660"
+    },
+    {
+      "id": 21,
+      "filename": "21-twin-room-bathroom.webp",
+      "path": "src/assets/images/21-twin-room-bathroom.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 136674
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Twin Room private shower room",
+      "caption": "Twin Room private shower room",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/twin-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "b998e02cde04abda20578325b7c1949edc746f29aef119c28fadd4c48a56ae4c"
+    },
+    {
+      "id": 22,
+      "filename": "22-twin-room-detail.webp",
+      "path": "src/assets/images/22-twin-room-detail.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 182502
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Bedside table between two timber headboards",
+      "caption": "Bedside table between two timber headboards",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/rooms/twin-room/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "12c64cf05de7163772226c754f13679be0293ff63a187c29f6927686b0cd710a"
+    },
+    {
+      "id": 23,
+      "filename": "23-breakfast-detail.webp",
+      "path": "src/assets/images/23-breakfast-detail.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 136364
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Ceramics, bread and fruit on the breakfast table",
+      "caption": "Ceramics, bread and fruit on the breakfast table",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/your-stay/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "bff8c8ddf1475eaf19a4e10683f9a76bad4254b791da43bafc79c0b87dcb01dd"
+    },
+    {
+      "id": 24,
+      "filename": "24-linen-detail.webp",
+      "path": "src/assets/images/24-linen-detail.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 171254
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Folded linen and towels on a timber bench",
+      "caption": "Folded linen and towels on a timber bench",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/your-stay/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "dab90c37fe9a8960db6880b69297e71f19b2eb3998dd7d3f921589c11cffdfd4"
+    },
+    {
+      "id": 25,
+      "filename": "25-courtyard-material-detail.webp",
+      "path": "src/assets/images/25-courtyard-material-detail.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 212438
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Green ceramic trim and pale stone at the fountain",
+      "caption": "Green ceramic trim and pale stone at the fountain",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/the-house/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": false,
+      "sha256": "a64b7e8f6e4b082362c1dfa3ad10ffd7425115d51f62aeac6fd3f77d70ae76d1"
+    },
+    {
+      "id": 26,
+      "filename": "26-tetouan-city.webp",
+      "path": "src/assets/images/26-tetouan-city.webp",
+      "actual": {
+        "width": 1672,
+        "height": 941,
+        "format": "webp",
+        "bytes": 282414
+      },
+      "briefTarget": {
+        "width": 3200,
+        "height": 1800
+      },
+      "aspectRatio": "16:9",
+      "alt": "Concept illustration of Tetouan’s white roofscape",
+      "caption": "Concept illustration of Tetouan’s white roofscape",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/tetouan/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": true,
+      "sha256": "b4243ad277d5a3d047a97f5deb16926907055542ade81ae211bec792d571c8d0"
+    },
+    {
+      "id": 27,
+      "filename": "27-tetouan-lane.webp",
+      "path": "src/assets/images/27-tetouan-lane.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 310824
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Concept illustration of a white medina lane",
+      "caption": "Concept illustration of a white medina lane",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/tetouan/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": true,
+      "sha256": "15319e25467afb5e6cfd69a2fb0b2a3910d215d464d70bedd1c9a838cf20a406"
+    },
+    {
+      "id": 28,
+      "filename": "28-tetouan-craft-detail.webp",
+      "path": "src/assets/images/28-tetouan-craft-detail.webp",
+      "actual": {
+        "width": 1122,
+        "height": 1402,
+        "format": "webp",
+        "bytes": 269684
+      },
+      "briefTarget": {
+        "width": 2400,
+        "height": 3000
+      },
+      "aspectRatio": "4:5",
+      "alt": "Concept illustration of a timber door and lime plaster",
+      "caption": "Concept illustration of a timber door and lime plaster",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "primaryPage": "/tetouan/",
+      "provenance": "User-supplied generated image; no independent documentary attribution",
+      "destinationIllustration": true,
+      "sha256": "a3fba5536d18fb7f2855e770520d5624905336372a7ecc5748512100edc96130"
+    }
+  ]
+}

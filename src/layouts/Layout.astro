@@ -1,0 +1,39 @@
+---
+import '../styles/global.css';
+import '@fontsource/instrument-serif/400.css';
+import '@fontsource/instrument-serif/400-italic.css';
+import '@fontsource/manrope/400.css';
+import '@fontsource/manrope/500.css';
+import '@fontsource/manrope/600.css';
+interface Props {title:string;description?:string;}
+const {title,description='Four rooms, an open courtyard, and space to settle into Tetouan. Discover DAR SERA, a concept guesthouse.'}=Astro.props;
+const path=Astro.url.pathname;
+const nav=[['/the-house/','The House'],['/rooms/','Rooms'],['/your-stay/','Your Stay'],['/tetouan/','Tetouan']];
+---
+<!doctype html>
+<html lang="en">
+ <head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>{title} — DAR SERA</title><meta name="description" content={description}/><meta name="theme-color" content="#f4f0e7"/><meta property="og:title" content={`${title} — DAR SERA`}/><meta property="og:description" content={description}/><meta property="og:type" content="website"/><link rel="icon" href="/favicon.svg" type="image/svg+xml"/></head>
+ <body>
+ <a class="skip" href="#main">Skip to content</a>
+ <header class="header wrap">
+  <a class="wordmark" href="/" aria-label="DAR SERA home"><span class="brand-symbol" aria-hidden="true"><i></i></span><span>DAR SERA<small>TETOUAN, MOROCCO</small></span></a>
+  <nav aria-label="Main navigation" class="desktop-nav">{nav.map(([url,label])=><a href={url} aria-current={path.startsWith(url)?'page':undefined}>{label}</a>)}</nav>
+  <a class="book-link" href="/plan-your-stay/">Plan your stay <span aria-hidden="true">↗</span></a>
+  <button class="menu-toggle" aria-expanded="false" aria-controls="mobile-menu">Menu <span aria-hidden="true">+</span></button>
+ </header>
+ <dialog id="mobile-menu" class="mobile-menu" aria-label="Navigation"><div class="menu-top"><span class="eyebrow">DAR SERA</span><button class="menu-close">Close <span aria-hidden="true">×</span></button></div><nav aria-label="Mobile navigation"><a href="/">Home</a>{nav.map(([url,label])=><a href={url}>{label}</a>)}<a href="/plan-your-stay/">Plan your stay ↗</a></nav><p>A courtyard guesthouse in Tetouan.</p></dialog>
+ <main id="main"><slot/></main>
+ <footer class="footer">
+  <div class="wrap footer-top"><a class="footer-logo" href="/">DAR SERA<span>A courtyard guesthouse in Tetouan.</span></a><div class="footer-links"><div><span class="eyebrow">EXPLORE</span><a href="/the-house/">The House</a><a href="/rooms/">Our four rooms</a><a href="/tetouan/">Tetouan</a></div><div><span class="eyebrow">YOUR VISIT</span><a href="/your-stay/">Your Stay & FAQs</a><a href="/plan-your-stay/">Plan your stay ↗</a><a href="/privacy/">Privacy & demo information</a></div></div></div>
+  <div class="wrap footer-bottom"><p>Concept guesthouse website. An imagined house, thoughtfully explored.</p><p>Design & development by <a href="https://www.pfxamd.com">pfxamd ↗</a></p></div>
+ </footer>
+ <script>
+ const toggle=document.querySelector<HTMLButtonElement>('.menu-toggle');
+ const menu=document.querySelector<HTMLDialogElement>('#mobile-menu');
+ toggle?.addEventListener('click',()=>{menu?.showModal();toggle.setAttribute('aria-expanded','true');document.body.classList.add('dialog-open');});
+ menu?.querySelector('.menu-close')?.addEventListener('click',()=>menu.close());
+ menu?.addEventListener('click',e=>{if(e.target===menu)menu.close();});
+ menu?.addEventListener('close',()=>{toggle?.setAttribute('aria-expanded','false');document.body.classList.remove('dialog-open');toggle?.focus();});
+ </script>
+ </body>
+</html>
