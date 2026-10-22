@@ -1,0 +1,1414 @@
+{
+  "sourceCommit": "26ece4a9bb4cf6b29d91f36156c36dd24afa899c",
+  "prefix": "pfxamd/concepts/dar-sera/",
+  "records": [
+    {
+      "output": "_astro/01-courtyard-hero.C-g530hP.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/01-courtyard-hero.webp",
+      "bytes": 163852,
+      "sha256": "b50759f1699b7ca018026d493c1132c71d11f2f22c19fc292a7fffde0f416ea8",
+      "kind": "original",
+      "source": "src/assets/images/01-courtyard-hero.webp"
+    },
+    {
+      "output": "_astro/01-courtyard-hero.C-g530hP_1WHkgo.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/01-courtyard-hero.C-g530hP_1WHkgo.webp",
+      "bytes": 60904,
+      "sha256": "c29c168e8bb80ca90bb0ccfc8bd135595c767194c4236106434f5bd783f72981",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/01-courtyard-hero.C-g530hP_PxyVQ.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/01-courtyard-hero.C-g530hP_PxyVQ.avif",
+      "bytes": 11159,
+      "sha256": "3de0c934fef4ad844ea9ce18fde1c35fdc3a14e444435d69b9684ef67a66f002",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/01-courtyard-hero.C-g530hP_Z1F0J2i.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/01-courtyard-hero.C-g530hP_Z1F0J2i.webp",
+      "bytes": 20896,
+      "sha256": "82541e98df973dcb2670ce438fe6f1ead6487045d4cf8d7e96bd160c7e6fb2b4",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/01-courtyard-hero.C-g530hP_Z1UEagJ.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/01-courtyard-hero.C-g530hP_Z1UEagJ.webp",
+      "bytes": 146336,
+      "sha256": "eb15941d7bd346c717036c6c34718e06d0f5b741047a16cb7ba649accf975335",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/01-courtyard-hero.C-g530hP_ZAUuyo.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/01-courtyard-hero.C-g530hP_ZAUuyo.avif",
+      "bytes": 33057,
+      "sha256": "942c854439e4231c60d6a630915951944e0be6fca4bd9809e6aec2b92f8b095f",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/01-courtyard-hero.C-g530hP_ZacFYb.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/01-courtyard-hero.C-g530hP_ZacFYb.avif",
+      "bytes": 78845,
+      "sha256": "9f04c3b28621877a6bdc8abb757f641344d9524cafa678d90d0d0725e822fe97",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/02-entrance.HqMkYVqM.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/02-entrance.webp",
+      "bytes": 139062,
+      "sha256": "36f812d64d737a93bd4634c5c3ecbeeb8cc797ab2e0fef3aa549cd4de745a78e",
+      "kind": "original",
+      "source": "src/assets/images/02-entrance.webp"
+    },
+    {
+      "output": "_astro/02-entrance.HqMkYVqM_2nBlNX.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/02-entrance.HqMkYVqM_2nBlNX.webp",
+      "bytes": 83532,
+      "sha256": "5310366337ffe79ec92e19846da48a92145d9c380d3782fd5e5d6def7d94b147",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/02-entrance.HqMkYVqM_Z14Ed6r.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/02-entrance.HqMkYVqM_Z14Ed6r.avif",
+      "bytes": 48780,
+      "sha256": "bf2671cd8ad7b16c5a6bb317470a2c56441be93941b77fa4d4362e5f16d53807",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/02-entrance.HqMkYVqM_Z1DrNsy.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/02-entrance.HqMkYVqM_Z1DrNsy.webp",
+      "bytes": 121862,
+      "sha256": "2d085fa39612b0cb64b0a23fff67b13e03788446d0a3672d1463403e70392652",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/02-entrance.HqMkYVqM_Z23HQq3.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/02-entrance.HqMkYVqM_Z23HQq3.avif",
+      "bytes": 17279,
+      "sha256": "0f6ac10e12b8a4b9799ee0ca3d34679f83c82199a140446009c77298a5d3793f",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/02-entrance.HqMkYVqM_Z2dGvVD.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/02-entrance.HqMkYVqM_Z2dGvVD.avif",
+      "bytes": 67532,
+      "sha256": "cae5c9daf64053d7cae8135abc0c6b198c9d4563069c0c11e0b0ba26df52862e",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/02-entrance.HqMkYVqM_Z2qUiGP.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/02-entrance.HqMkYVqM_Z2qUiGP.webp",
+      "bytes": 32242,
+      "sha256": "19de105bece275e73276e63e45b09d3fa7e9403c03c0cc109eda6049c9bbb301",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/03-lounge.D6_m4JBr.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/03-lounge.webp",
+      "bytes": 227312,
+      "sha256": "6368d103d2e25229c73b6cc2c02d711ba79b424f376d5969a28b88809b9f0a7d",
+      "kind": "original",
+      "source": "src/assets/images/03-lounge.webp"
+    },
+    {
+      "output": "_astro/03-lounge.D6_m4JBr_2obxYo.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/03-lounge.D6_m4JBr_2obxYo.avif",
+      "bytes": 42137,
+      "sha256": "860fb7ea22d7a6cffa9c53ede8155ed91694139537c095886adf96db8b397620",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/03-lounge.D6_m4JBr_Z1FWmAf.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/03-lounge.D6_m4JBr_Z1FWmAf.avif",
+      "bytes": 99215,
+      "sha256": "692506e9804d3e133f0b597e565f1360d5ed72a68ee96068373c90a8893e26dd",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/03-lounge.D6_m4JBr_Z1pUPNy.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/03-lounge.D6_m4JBr_Z1pUPNy.webp",
+      "bytes": 25296,
+      "sha256": "c03a2c01b66661ef146d8fe2141529101482f2363395d0b1b7f13181449a101a",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/03-lounge.D6_m4JBr_Z249NR2.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/03-lounge.D6_m4JBr_Z249NR2.webp",
+      "bytes": 202418,
+      "sha256": "2b07a932b2e33771025fa52ff2a5084a69fa1fe99d8a81e86b40b5da62ca0292",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/03-lounge.D6_m4JBr_qIKyi.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/03-lounge.D6_m4JBr_qIKyi.webp",
+      "bytes": 83126,
+      "sha256": "c4047b3ec2aa544d5560bc74ecb151202d063feb4ca848e028ec149d656c3dad",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/03-lounge.D6_m4JBr_wvVBx.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/03-lounge.D6_m4JBr_wvVBx.avif",
+      "bytes": 12717,
+      "sha256": "3ca4a6e308054ac615498c4d7d3f106660b83d54ce9bac3f6015c6ae5137ca9c",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/04-breakfast-room.Dxj8EGrI.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/04-breakfast-room.webp",
+      "bytes": 232870,
+      "sha256": "99c30340b2a74ee6d7cff16ceb054a7d4fb73bea32df512376b96941e568e491",
+      "kind": "original",
+      "source": "src/assets/images/04-breakfast-room.webp"
+    },
+    {
+      "output": "_astro/04-breakfast-room.Dxj8EGrI_1JM69S.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/04-breakfast-room.Dxj8EGrI_1JM69S.avif",
+      "bytes": 11988,
+      "sha256": "867b7f51f60c32c4e96898a99fc46af31c835f7dc735900708ec2638688c2e68",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/04-breakfast-room.Dxj8EGrI_1mJxBl.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/04-breakfast-room.Dxj8EGrI_1mJxBl.avif",
+      "bytes": 40793,
+      "sha256": "ee07f062b11e3ec5d50201cf79af503bffcf73026de7c9e8a7d3bed7c8fe0df6",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/04-breakfast-room.Dxj8EGrI_Z1Lq3RW.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/04-breakfast-room.Dxj8EGrI_Z1Lq3RW.webp",
+      "bytes": 208736,
+      "sha256": "364a5060d2a9fa7d491b0d03e56b620bbf0e6c61252fe84d39b7a8bebba0d75b",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/04-breakfast-room.Dxj8EGrI_Z2mMMRt.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/04-breakfast-room.Dxj8EGrI_Z2mMMRt.avif",
+      "bytes": 100412,
+      "sha256": "493fb20bb0c0094bf146fc10ebfa3c82c51dcca0505c3f1476f009ad01bb0dad",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/04-breakfast-room.Dxj8EGrI_ZEn7F.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/04-breakfast-room.Dxj8EGrI_ZEn7F.webp",
+      "bytes": 23680,
+      "sha256": "450e2464e86c07e1cd1c03f01a8ff2af7e5cf4c06b40162e9bd0356d33d31ee2",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/04-breakfast-room.Dxj8EGrI_ZnGUFd.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/04-breakfast-room.Dxj8EGrI_ZnGUFd.webp",
+      "bytes": 80782,
+      "sha256": "0f31fd2613c3954180955693edfd01ab46fe70020b519716cd99fac4cdcf003e",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/05-rooftop.CvPNngyU.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/05-rooftop.webp",
+      "bytes": 270252,
+      "sha256": "fc3cf0b825f6367cb88346a7b7c72b2a726b89ae4dd99c945f078e315a273c01",
+      "kind": "original",
+      "source": "src/assets/images/05-rooftop.webp"
+    },
+    {
+      "output": "_astro/05-rooftop.CvPNngyU_1ciHoB.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/05-rooftop.CvPNngyU_1ciHoB.webp",
+      "bytes": 30458,
+      "sha256": "d47749fcf3c351eb3a2e57594b394e0dd388d58ff2fa2b311d59fb1abebc7d33",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/05-rooftop.CvPNngyU_Z13LhRf.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/05-rooftop.CvPNngyU_Z13LhRf.webp",
+      "bytes": 247198,
+      "sha256": "2a6883271351dcbd4bde0b853d3d967464b0349836d50655bbce8ac8f3692aa3",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/05-rooftop.CvPNngyU_Z1UqCYe.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/05-rooftop.CvPNngyU_Z1UqCYe.avif",
+      "bytes": 15236,
+      "sha256": "83b4c6d6a2723d0c524840a30459a4e906c8319b37f94a53ef55eb9f75c70609",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/05-rooftop.CvPNngyU_Z1n2pqp.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/05-rooftop.CvPNngyU_Z1n2pqp.avif",
+      "bytes": 120390,
+      "sha256": "a0d3828d0cab63735a6079b521063cd29ecf171f894dcf9e1ea72c10e207274c",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/05-rooftop.CvPNngyU_Z2ncRcG.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/05-rooftop.CvPNngyU_Z2ncRcG.webp",
+      "bytes": 95710,
+      "sha256": "59165eeacea7d772ac95cca16ee3503f7179697f71422758f1dd5a2c9409731a",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/05-rooftop.CvPNngyU_ZpK4LA.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/05-rooftop.CvPNngyU_ZpK4LA.avif",
+      "bytes": 47524,
+      "sha256": "306a696221e460cbb6f13f8de412b922f73ec6682d683aa0c89098e68328234e",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/06-stair-gallery.C3FzNDi7.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/06-stair-gallery.webp",
+      "bytes": 189556,
+      "sha256": "822fe3520325b8028ac64dfbcce81ad6404ab1ef9d7c7823cc995b1d87142ff9",
+      "kind": "original",
+      "source": "src/assets/images/06-stair-gallery.webp"
+    },
+    {
+      "output": "_astro/06-stair-gallery.C3FzNDi7_P0otN.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/06-stair-gallery.C3FzNDi7_P0otN.avif",
+      "bytes": 23443,
+      "sha256": "8d39c3ee32ccd7809809d72616b1215173891fe8cfa67708c12d4b2825fb43a2",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/06-stair-gallery.C3FzNDi7_Z1FxTul.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/06-stair-gallery.C3FzNDi7_Z1FxTul.webp",
+      "bytes": 45656,
+      "sha256": "f041dab8e9c3f921f4b9bf66c18774975a46d5be300f9a363ec9380cb7f372d2",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/06-stair-gallery.C3FzNDi7_Z1M3aXz.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/06-stair-gallery.C3FzNDi7_Z1M3aXz.avif",
+      "bytes": 92306,
+      "sha256": "4383b548afa736283c4d0dee2395014b2417893ccbafc35fbe8554af0bebbc22",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/06-stair-gallery.C3FzNDi7_Z1hbXja.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/06-stair-gallery.C3FzNDi7_Z1hbXja.webp",
+      "bytes": 120340,
+      "sha256": "5c2574437879b7aa9b8766e94fb013be7d76c16e782dc49bbeb07101310bd9b5",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/06-stair-gallery.C3FzNDi7_ZrOsSz.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/06-stair-gallery.C3FzNDi7_ZrOsSz.webp",
+      "bytes": 173214,
+      "sha256": "763127210732efb5953df817fcac1bdb4feeccca743421505f27222e0b1c6efd",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/06-stair-gallery.C3FzNDi7_tfuXo.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/06-stair-gallery.C3FzNDi7_tfuXo.avif",
+      "bytes": 66585,
+      "sha256": "49423e9bf8a3d9ed482f005b418e3aa0b72584b2fba8d034fc3a0eda75c7f5fe",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/07-courtyard-room-wide.DSYNasuR.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/07-courtyard-room-wide.webp",
+      "bytes": 209208,
+      "sha256": "9a6342414dc52283ad43d2077abec88142eefba4fd765dd78b90e0e30221df47",
+      "kind": "original",
+      "source": "src/assets/images/07-courtyard-room-wide.webp"
+    },
+    {
+      "output": "_astro/07-courtyard-room-wide.DSYNasuR_281xpS.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/07-courtyard-room-wide.DSYNasuR_281xpS.avif",
+      "bytes": 89163,
+      "sha256": "a97886a4eb105b83b4aae31cd91750af169b9ab6c84d43fea49dc35d89cf349b",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/07-courtyard-room-wide.DSYNasuR_Z14IkK3.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/07-courtyard-room-wide.DSYNasuR_Z14IkK3.webp",
+      "bytes": 71550,
+      "sha256": "5ec6ca036e971ac9625c70a322a13eb173e2ca8a175ffb5b37e3147dc5bb2037",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/07-courtyard-room-wide.DSYNasuR_Z1XNwda.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/07-courtyard-room-wide.DSYNasuR_Z1XNwda.avif",
+      "bytes": 35822,
+      "sha256": "c183746c652bdd7befc782aab8af4b8fb5d6a1e7e27633a343a774f8fcdb20a1",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/07-courtyard-room-wide.DSYNasuR_Z1lPjJ1.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/07-courtyard-room-wide.DSYNasuR_Z1lPjJ1.avif",
+      "bytes": 10280,
+      "sha256": "93100bef0ea624dc6472619954f14ae1174fb5a909cfd9269207ce79cf888cb3",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/07-courtyard-room-wide.DSYNasuR_ZrK8gT.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/07-courtyard-room-wide.DSYNasuR_ZrK8gT.webp",
+      "bytes": 20438,
+      "sha256": "89c54862d732272f4cbede888ceffee20794d3977b591c05d97bf690e8d7e2c1",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/07-courtyard-room-wide.DSYNasuR_mHnmn.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/07-courtyard-room-wide.DSYNasuR_mHnmn.webp",
+      "bytes": 187960,
+      "sha256": "d1073515dc79cec1dd9ce6befe3418b7136d5a0f5335a91713eea91e2a1f3c7a",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/08-courtyard-room-outlook.CCxXJOka.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/08-courtyard-room-outlook.webp",
+      "bytes": 158738,
+      "sha256": "152760c0edd12c1c4c3e8fd4608583b1bc896890ceb7733a5d9efbed6f7ab561",
+      "kind": "original",
+      "source": "src/assets/images/08-courtyard-room-outlook.webp"
+    },
+    {
+      "output": "_astro/08-courtyard-room-outlook.CCxXJOka_19bj25.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/08-courtyard-room-outlook.CCxXJOka_19bj25.webp",
+      "bytes": 18286,
+      "sha256": "5829c116e51bfdac3802bda96cc3d08eefb37cbadcbe31f7ebe8d7429405136c",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/08-courtyard-room-outlook.CCxXJOka_1aeYy.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/08-courtyard-room-outlook.CCxXJOka_1aeYy.webp",
+      "bytes": 56106,
+      "sha256": "a18afac7baf1346fe4facb002c3bf23145e487898c4ca4368217e587eae30e56",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/08-courtyard-room-outlook.CCxXJOka_Z1GVWME.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/08-courtyard-room-outlook.CCxXJOka_Z1GVWME.webp",
+      "bytes": 137564,
+      "sha256": "88c21ca715d52b977934ec893a497fdf001bed9145cfa58232a9949241fdfd39",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/08-courtyard-room-outlook.CCxXJOka_Z1nhedX.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/08-courtyard-room-outlook.CCxXJOka_Z1nhedX.avif",
+      "bytes": 29343,
+      "sha256": "e7960ac31e2e46bca0c9818a04b09a424fb649fdf2bdbf1b51cb6115e5ee642e",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/08-courtyard-room-outlook.CCxXJOka_Zfgabr.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/08-courtyard-room-outlook.CCxXJOka_Zfgabr.avif",
+      "bytes": 9635,
+      "sha256": "2fd0f56c4a9a9df7299ce1315fd83ba87b59e262062d2fe2bbc78d277cb1b4ac",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/08-courtyard-room-outlook.CCxXJOka_Zj60Va.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/08-courtyard-room-outlook.CCxXJOka_Zj60Va.avif",
+      "bytes": 68462,
+      "sha256": "e31202ef052e9f2be975742be47f051ac1715a0c6c7a8ffc2aea2f158e60f461",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/09-courtyard-room-bathroom.CvmxdjZU.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/09-courtyard-room-bathroom.webp",
+      "bytes": 129302,
+      "sha256": "7ff4f71da1f979845c195fdcabfef83a1477c57d93c9c8ffa68def487e8dfa81",
+      "kind": "original",
+      "source": "src/assets/images/09-courtyard-room-bathroom.webp"
+    },
+    {
+      "output": "_astro/09-courtyard-room-bathroom.CvmxdjZU_1Bdppi.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/09-courtyard-room-bathroom.CvmxdjZU_1Bdppi.avif",
+      "bytes": 14971,
+      "sha256": "ece94764d92981c04347a754f855d7c5f96a369b26718bf4059c5890f49afbb6",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/09-courtyard-room-bathroom.CvmxdjZU_2bPLTs.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/09-courtyard-room-bathroom.CvmxdjZU_2bPLTs.avif",
+      "bytes": 62575,
+      "sha256": "2059d30e0b31a1e3d3151700fdb505aa4be435ee96f2c069f25b5bb91a29478d",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/09-courtyard-room-bathroom.CvmxdjZU_2tbMiR.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/09-courtyard-room-bathroom.CvmxdjZU_2tbMiR.webp",
+      "bytes": 72876,
+      "sha256": "f1e0b28d6e24430a05e8e9d4a48bf63bb4fc7868dc41f27a89a378c38d2d010b",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/09-courtyard-room-bathroom.CvmxdjZU_Z1d9oDz.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/09-courtyard-room-bathroom.CvmxdjZU_Z1d9oDz.avif",
+      "bytes": 44463,
+      "sha256": "15f007f3ea94a5eee558a426d6a9338ac1d332d511d722bd00a81c02acd5525b",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/09-courtyard-room-bathroom.CvmxdjZU_ZIB24Q.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/09-courtyard-room-bathroom.CvmxdjZU_ZIB24Q.webp",
+      "bytes": 26530,
+      "sha256": "e9053da15a32667bad9bb37a2811dc610e9bd29c97b70be932f429e79d5af0a5",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/09-courtyard-room-bathroom.CvmxdjZU_ZeWsdj.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/09-courtyard-room-bathroom.CvmxdjZU_ZeWsdj.webp",
+      "bytes": 109254,
+      "sha256": "00714ca975133899a9546520f8160757647f78fb0fb32020fa400e4aee0def77",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/10-courtyard-room-detail.DJIQggJg.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/10-courtyard-room-detail.webp",
+      "bytes": 141880,
+      "sha256": "8735183b1ae491e635043162b2314ac0be5b5425072c274725924f873231950b",
+      "kind": "original",
+      "source": "src/assets/images/10-courtyard-room-detail.webp"
+    },
+    {
+      "output": "_astro/10-courtyard-room-detail.DJIQggJg_BLKGo.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/10-courtyard-room-detail.DJIQggJg_BLKGo.avif",
+      "bytes": 16200,
+      "sha256": "2a09272dfc891e4b733ed6ade2c307907953f3f95bd9d1315dfc6d58d86dca6b",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/10-courtyard-room-detail.DJIQggJg_Z154MT5.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/10-courtyard-room-detail.DJIQggJg_Z154MT5.webp",
+      "bytes": 85050,
+      "sha256": "c753aa38edb2d9cc6a657dbeac2d96ef6aeab7408c344c7f369910ded3bc4a87",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/10-courtyard-room-detail.DJIQggJg_Z18wom7.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/10-courtyard-room-detail.DJIQggJg_Z18wom7.webp",
+      "bytes": 32708,
+      "sha256": "6dba406a6dd1104755ddbc61ce6dfcef6ccae16e4d418ede7457f24f84aca5fd",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/10-courtyard-room-detail.DJIQggJg_Z2coLdt.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/10-courtyard-room-detail.DJIQggJg_Z2coLdt.avif",
+      "bytes": 63128,
+      "sha256": "5db00a5b46fb4928caa9f986d4ef74eba14e825e53199254edb261bbf21bd41d",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/10-courtyard-room-detail.DJIQggJg_Z2twh7B.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/10-courtyard-room-detail.DJIQggJg_Z2twh7B.avif",
+      "bytes": 45786,
+      "sha256": "5dee5ebb52de6de2eeb6bcd34fb896a10566d1efe27db62c1c07db7b35ccb823",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/10-courtyard-room-detail.DJIQggJg_wWU6j.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/10-courtyard-room-detail.DJIQggJg_wWU6j.webp",
+      "bytes": 124194,
+      "sha256": "ccf417d19436a2728b7f8821228c9ba0b803fb1a674daaa39bc511e304aaab0c",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/11-light-room-wide.ufKkog2l.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/11-light-room-wide.webp",
+      "bytes": 187064,
+      "sha256": "a9a88104b9cede7fe1d52609c08f72ab38e4619b1d67db5ba165fee05286b9a1",
+      "kind": "original",
+      "source": "src/assets/images/11-light-room-wide.webp"
+    },
+    {
+      "output": "_astro/11-light-room-wide.ufKkog2l_2kTFnG.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/11-light-room-wide.ufKkog2l_2kTFnG.webp",
+      "bytes": 165616,
+      "sha256": "02174eec90e64287bf5c1abc13d7e9afb0d4f5728821712bc75f93297dd89b19",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/11-light-room-wide.ufKkog2l_Z1YEy1S.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/11-light-room-wide.ufKkog2l_Z1YEy1S.avif",
+      "bytes": 35073,
+      "sha256": "7298006d858634616c4bd5517e5730190d0c29a2bac062182150484634c517a9",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/11-light-room-wide.ufKkog2l_Z1aV6YM.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/11-light-room-wide.ufKkog2l_Z1aV6YM.webp",
+      "bytes": 22386,
+      "sha256": "e72254beb0c773e73f282ac5d2cba5fc744f2f28d03f4966abc6a6841ef4a2b2",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/11-light-room-wide.ufKkog2l_Z2v9O4M.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/11-light-room-wide.ufKkog2l_Z2v9O4M.avif",
+      "bytes": 11120,
+      "sha256": "c111fbec56378da8d2dfaef217b9c7b97833885a138637fa17363887cd9ab59a",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/11-light-room-wide.ufKkog2l_ZEqPVS.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/11-light-room-wide.ufKkog2l_ZEqPVS.webp",
+      "bytes": 70164,
+      "sha256": "639f6d5e2452b630d54c3015d46da3645a45fe8da804e1d2f05aee2c87b791e8",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/11-light-room-wide.ufKkog2l_ZS2JTL.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/11-light-room-wide.ufKkog2l_ZS2JTL.avif",
+      "bytes": 82637,
+      "sha256": "ccf69781a031adfa43e4a2e2de5928257f60c7c16a8a47464a85463b4a9f0fa0",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/12-light-room-window.DYBhVwn6.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/12-light-room-window.webp",
+      "bytes": 188258,
+      "sha256": "e38ae22e6be22f0449e51a3c9167ee5498f921d8c880516545d9e566207c38d0",
+      "kind": "original",
+      "source": "src/assets/images/12-light-room-window.webp"
+    },
+    {
+      "output": "_astro/12-light-room-window.DYBhVwn6_1V7KG4.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/12-light-room-window.DYBhVwn6_1V7KG4.webp",
+      "bytes": 69026,
+      "sha256": "bf8569bffd0d84e8dff1fca88705109fa02319555c168f57449c4d46eaa8ffaa",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/12-light-room-window.DYBhVwn6_1bSMW9.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/12-light-room-window.DYBhVwn6_1bSMW9.avif",
+      "bytes": 10439,
+      "sha256": "c6651d09e9f34d5d40062bba7865a21dd78844d7d30f065dd4c25195da37c632",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/12-light-room-window.DYBhVwn6_1m6Mpk.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/12-light-room-window.DYBhVwn6_1m6Mpk.webp",
+      "bytes": 168158,
+      "sha256": "4b8ea7b1a7dd9f8753a53d2e0283af3a3fd99fe2df44385eda2c947ca360c46f",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/12-light-room-window.DYBhVwn6_Z1hOEBo.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/12-light-room-window.DYBhVwn6_Z1hOEBo.avif",
+      "bytes": 34073,
+      "sha256": "8a4eca39ed281d9c48475a7288d53cc1bb1c7e7ea5c16dbff782e10ad1128feb",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/12-light-room-window.DYBhVwn6_ZEkTyk.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/12-light-room-window.DYBhVwn6_ZEkTyk.webp",
+      "bytes": 21088,
+      "sha256": "ddef242c50ac67b48398e59b355f04397ea3fea75a4ac3c7b2f1526571a40225",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/12-light-room-window.DYBhVwn6_s1AWd.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/12-light-room-window.DYBhVwn6_s1AWd.avif",
+      "bytes": 81186,
+      "sha256": "d916f6d3d3f18f7ba712454d10791a3659958caea5128ebaa9856cdffd989d44",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/13-light-room-bathroom.X6mh75No.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/13-light-room-bathroom.webp",
+      "bytes": 147448,
+      "sha256": "a50458b6254379f66ef9e6395b04b3329af748f0c242dd5234e59b8d1bc7a917",
+      "kind": "original",
+      "source": "src/assets/images/13-light-room-bathroom.webp"
+    },
+    {
+      "output": "_astro/13-light-room-bathroom.X6mh75No_2qkjWD.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/13-light-room-bathroom.X6mh75No_2qkjWD.avif",
+      "bytes": 16761,
+      "sha256": "8da8bb067c1c17b935a2069e1e50523185757bc64380ea580b3e4ef0011de6bc",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/13-light-room-bathroom.X6mh75No_PTTRX.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/13-light-room-bathroom.X6mh75No_PTTRX.avif",
+      "bytes": 71290,
+      "sha256": "0ace5fe8529c82582a576316d75dd228b3ec4d34867641b8194e0b0c637d30b8",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/13-light-room-bathroom.X6mh75No_Z1JLCob.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/13-light-room-bathroom.X6mh75No_Z1JLCob.webp",
+      "bytes": 32278,
+      "sha256": "ddf89ab6adcf39f0b873e8d9186964077e248bef60b9a56960d250c80d642e8f",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/13-light-room-bathroom.X6mh75No_Z22OLRA.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/13-light-room-bathroom.X6mh75No_Z22OLRA.webp",
+      "bytes": 84162,
+      "sha256": "37d16321fe834a60a26158d803d5301b357f9a43d786b4e27c1b1af7aafadcba",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/13-light-room-bathroom.X6mh75No_ZTofax.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/13-light-room-bathroom.X6mh75No_ZTofax.webp",
+      "bytes": 127088,
+      "sha256": "7d67ad9175a1b814cb7d9a9925bef1e70268bce29f100b651312e9ed8e8fcb3f",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/13-light-room-bathroom.X6mh75No_sIfJs.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/13-light-room-bathroom.X6mh75No_sIfJs.avif",
+      "bytes": 50516,
+      "sha256": "16b5d81fec3280ddd3f5a334a4735242902fd9f2c06bdf5d63c0227ff409d5a9",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/14-light-room-reading-detail.Blgnir9w.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/14-light-room-reading-detail.webp",
+      "bytes": 147278,
+      "sha256": "6383caebc6c8a0966424029ef45bdae78201486eb46eba93e8c504a5e78bff9d",
+      "kind": "original",
+      "source": "src/assets/images/14-light-room-reading-detail.webp"
+    },
+    {
+      "output": "_astro/14-light-room-reading-detail.Blgnir9w_1m7p8z.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/14-light-room-reading-detail.Blgnir9w_1m7p8z.webp",
+      "bytes": 129378,
+      "sha256": "75fab32557388c0f827a8518029e55ceb7315dbd0de8649721153a0b6d49960d",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/14-light-room-reading-detail.Blgnir9w_1oc5bf.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/14-light-room-reading-detail.Blgnir9w_1oc5bf.avif",
+      "bytes": 68053,
+      "sha256": "4d54654adb6e4c2be2705af61eba873bdb8027027765a6fe15e64515e8d43bd8",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/14-light-room-reading-detail.Blgnir9w_27XEIr.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/14-light-room-reading-detail.Blgnir9w_27XEIr.webp",
+      "bytes": 35924,
+      "sha256": "52f17b0d3227a7f188d6a9285814e2eb9d0a9bdccc66a20f7208e03e82b198db",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/14-light-room-reading-detail.Blgnir9w_ZUAPP9.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/14-light-room-reading-detail.Blgnir9w_ZUAPP9.avif",
+      "bytes": 49342,
+      "sha256": "2fb3d79ed59704ae5279dc6d306eac637b265cb5d886adbe98ea99b68d05d741",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/14-light-room-reading-detail.Blgnir9w_ZgDmv1.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/14-light-room-reading-detail.Blgnir9w_ZgDmv1.webp",
+      "bytes": 89256,
+      "sha256": "92bb3047ef9c2884229104f27ab88b13363adb2ba02d90219adea71fdb0de0fc",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/14-light-room-reading-detail.Blgnir9w_ZvpdWI.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/14-light-room-reading-detail.Blgnir9w_ZvpdWI.avif",
+      "bytes": 18350,
+      "sha256": "e14cced7a4227fbec4c703ea14bdaf4131f489e101d06cdefba41f7451df2645",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/15-terrace-suite-wide.jgP708Fe.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/15-terrace-suite-wide.webp",
+      "bytes": 204754,
+      "sha256": "95a4fe1acd9f646496010cb722aa27b1ef5caf10b2fcebe641edde1db60a4be4",
+      "kind": "original",
+      "source": "src/assets/images/15-terrace-suite-wide.webp"
+    },
+    {
+      "output": "_astro/15-terrace-suite-wide.jgP708Fe_1rMDN7.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/15-terrace-suite-wide.jgP708Fe_1rMDN7.webp",
+      "bytes": 23284,
+      "sha256": "8668bfc05d5b5ac2ad5fd3a09ee223c72f2601e77b7ccd823e7e52b4ebd6cfa7",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/15-terrace-suite-wide.jgP708Fe_Z216X1m.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/15-terrace-suite-wide.jgP708Fe_Z216X1m.avif",
+      "bytes": 11491,
+      "sha256": "c3b4fef434c0fa2acd07a2a4ccae255e291b7e3c516669cfc577263fa7d498fb",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/15-terrace-suite-wide.jgP708Fe_Z22YUG8.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/15-terrace-suite-wide.jgP708Fe_Z22YUG8.webp",
+      "bytes": 178842,
+      "sha256": "385132f8a828f76f2c853db1eed2bfc949dbfe75527198e8d42370bc9ba876e7",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/15-terrace-suite-wide.jgP708Fe_Z2oBNOL.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/15-terrace-suite-wide.jgP708Fe_Z2oBNOL.webp",
+      "bytes": 75024,
+      "sha256": "d281d2e489252fb9db312f30fe4466283cf2ef1cc6d2855752c3e0447f72be91",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/15-terrace-suite-wide.jgP708Fe_ZMkhPj.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/15-terrace-suite-wide.jgP708Fe_ZMkhPj.avif",
+      "bytes": 38252,
+      "sha256": "5ba89757cd80dad334c1e26ddc6b3520fdb43ac3e36f26c26431fa3fd6cc0c78",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/15-terrace-suite-wide.jgP708Fe_sy6UU.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/15-terrace-suite-wide.jgP708Fe_sy6UU.avif",
+      "bytes": 88721,
+      "sha256": "0483eba8b74e0550dc7ca551b7f76e7f41187b21878cec563fcfe091ada70618",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/16-terrace-suite-private-terrace.CgiuKoVx.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/16-terrace-suite-private-terrace.webp",
+      "bytes": 183826,
+      "sha256": "187ae211f528bbbfeb0aacd2fc86bedf3de32a763f3fca4d6fb161eaac9c122a",
+      "kind": "original",
+      "source": "src/assets/images/16-terrace-suite-private-terrace.webp"
+    },
+    {
+      "output": "_astro/16-terrace-suite-private-terrace.CgiuKoVx_2tM1Ld.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/16-terrace-suite-private-terrace.CgiuKoVx_2tM1Ld.avif",
+      "bytes": 12635,
+      "sha256": "c3dce0b07b70249dfa52c070d6363c6d6258a8584a1487994f13936a0fe2c84c",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/16-terrace-suite-private-terrace.CgiuKoVx_Z1EPyrM.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/16-terrace-suite-private-terrace.CgiuKoVx_Z1EPyrM.webp",
+      "bytes": 161058,
+      "sha256": "705f98e6fe0ace48f0fc0881b22a5a77ba1e5611f30d79b9860dcde0b27bb7aa",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/16-terrace-suite-private-terrace.CgiuKoVx_Z1OWjSq.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/16-terrace-suite-private-terrace.CgiuKoVx_Z1OWjSq.webp",
+      "bytes": 72778,
+      "sha256": "93fa42b70d7d62a6623c4806b31846c5cd9d1c51fefb9c410bba9c36e006fc9c",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/16-terrace-suite-private-terrace.CgiuKoVx_hmhzT.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/16-terrace-suite-private-terrace.CgiuKoVx_hmhzT.webp",
+      "bytes": 24424,
+      "sha256": "bc4f56907043daa8201516993cdcaef3be5cbf25348d95e0fe8145c5c5274c78",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/16-terrace-suite-private-terrace.CgiuKoVx_msphS.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/16-terrace-suite-private-terrace.CgiuKoVx_msphS.avif",
+      "bytes": 38194,
+      "sha256": "514e0733bd4a5b43e881df809a9d5d56a2aa2bade2f279b103bd6b4110965fd0",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/16-terrace-suite-private-terrace.CgiuKoVx_yQ9cO.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/16-terrace-suite-private-terrace.CgiuKoVx_yQ9cO.avif",
+      "bytes": 82400,
+      "sha256": "05b742b11b703b06041adbe06a98668e25f20c5e320c71d96c02417337796a3d",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/17-terrace-suite-bathroom.C4jGX2Ej.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/17-terrace-suite-bathroom.webp",
+      "bytes": 182158,
+      "sha256": "0d7dd65d562a5afcb9c2fac2536b9077534692ba879482f908df84e59c3a3701",
+      "kind": "original",
+      "source": "src/assets/images/17-terrace-suite-bathroom.webp"
+    },
+    {
+      "output": "_astro/17-terrace-suite-bathroom.C4jGX2Ej_1SNTGT.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/17-terrace-suite-bathroom.C4jGX2Ej_1SNTGT.avif",
+      "bytes": 56697,
+      "sha256": "52bb49a6730032077288bb41b468bbcc6f22d6ad0c0bda0c0fb09c205bf143d0",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/17-terrace-suite-bathroom.C4jGX2Ej_1bsVQu.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/17-terrace-suite-bathroom.C4jGX2Ej_1bsVQu.webp",
+      "bytes": 159140,
+      "sha256": "8728b9c9d77525e36adca4b474cf1d3a6da5fe8e3487d3304ce0b311ad02ea01",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/17-terrace-suite-bathroom.C4jGX2Ej_OL3jR.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/17-terrace-suite-bathroom.C4jGX2Ej_OL3jR.webp",
+      "bytes": 40362,
+      "sha256": "2e4a2219f3cf8c314cabf3009c26de61dbcfb515f4e47a9e3d1b436a28370bf2",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/17-terrace-suite-bathroom.C4jGX2Ej_Z2uRf5W.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/17-terrace-suite-bathroom.C4jGX2Ej_Z2uRf5W.avif",
+      "bytes": 79197,
+      "sha256": "99e298482397df65a8e6aa8a24e41a83c221d2416da9e74b0546b37a8c7f66e8",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/17-terrace-suite-bathroom.C4jGX2Ej_Zr0wMf.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/17-terrace-suite-bathroom.C4jGX2Ej_Zr0wMf.webp",
+      "bytes": 108808,
+      "sha256": "1e3ac08b54aa8395d3850376ca77ef89b72536c87db5d79e65fa446ec63a902d",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/17-terrace-suite-bathroom.C4jGX2Ej_ZyFpSE.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/17-terrace-suite-bathroom.C4jGX2Ej_ZyFpSE.avif",
+      "bytes": 19866,
+      "sha256": "fcf930b368d0ea385155766357460c8f8fc98d18d34bbe643315a74bf7e1ba65",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/18-terrace-suite-sitting-detail.BvXIfYVa.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/18-terrace-suite-sitting-detail.webp",
+      "bytes": 178636,
+      "sha256": "73293df66902968db359f77c0209699a5399d2919afb9e3fa41f8ae709f28029",
+      "kind": "original",
+      "source": "src/assets/images/18-terrace-suite-sitting-detail.webp"
+    },
+    {
+      "output": "_astro/18-terrace-suite-sitting-detail.BvXIfYVa_In6sI.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/18-terrace-suite-sitting-detail.BvXIfYVa_In6sI.avif",
+      "bytes": 59984,
+      "sha256": "7953a0d1d470d40fc2ad2c485f2688aec2d18be10a262c0cfcbcc2bbb2821c55",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/18-terrace-suite-sitting-detail.BvXIfYVa_Z16rugD.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/18-terrace-suite-sitting-detail.BvXIfYVa_Z16rugD.webp",
+      "bytes": 42854,
+      "sha256": "49a76b40ee1b01041f1a0fc60aced52bc310ae0319dff00db47ced38c8bcfafd",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/18-terrace-suite-sitting-detail.BvXIfYVa_Z1t2CHA.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/18-terrace-suite-sitting-detail.BvXIfYVa_Z1t2CHA.webp",
+      "bytes": 108444,
+      "sha256": "00f096672e7e666c48bc7ceba1867ac05e7a74590565fe2bd8b5629b115abc73",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/18-terrace-suite-sitting-detail.BvXIfYVa_Z21L0Sy.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/18-terrace-suite-sitting-detail.BvXIfYVa_Z21L0Sy.webp",
+      "bytes": 158740,
+      "sha256": "7bc606220ddff12d50695d7880d6b62c3cb0e8de5fee6e4d95a5a03c42ef8d00",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/18-terrace-suite-sitting-detail.BvXIfYVa_Z34CTN.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/18-terrace-suite-sitting-detail.BvXIfYVa_Z34CTN.avif",
+      "bytes": 21399,
+      "sha256": "fd7b350d34fec9a82062f0e2bb6854a4675661d995908863b11f7754259c2078",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/18-terrace-suite-sitting-detail.BvXIfYVa_aI4cW.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/18-terrace-suite-sitting-detail.BvXIfYVa_aI4cW.avif",
+      "bytes": 83063,
+      "sha256": "f4e66b106e20b48e53cd5447e21acb1e027b3c293d36105c4c67f6aa8d3d1984",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/19-twin-room-wide.DAPD98y_.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/19-twin-room-wide.webp",
+      "bytes": 221704,
+      "sha256": "4d0293ce6414e0d18c1646de458924f83710abe46d28483b6e78c95e55587503",
+      "kind": "original",
+      "source": "src/assets/images/19-twin-room-wide.webp"
+    },
+    {
+      "output": "_astro/19-twin-room-wide.DAPD98y__1Hs2yF.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/19-twin-room-wide.DAPD98y__1Hs2yF.webp",
+      "bytes": 21944,
+      "sha256": "5edf2f66e6bc707935c06c75e22ceb6d75d946e7648fa113a3741c6620a7e7d0",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/19-twin-room-wide.DAPD98y__1kpu18.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/19-twin-room-wide.DAPD98y__1kpu18.webp",
+      "bytes": 75008,
+      "sha256": "4c9b4a813a76d67add890aa8d7c1e726d2f2446d2374a59bccd2fe9518f5f63b",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/19-twin-room-wide.DAPD98y__Mlxrn.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/19-twin-room-wide.DAPD98y__Mlxrn.webp",
+      "bytes": 198290,
+      "sha256": "5e865f613ea87e54fd7033e7651671a9d0a139dcc127a90ba7556a942f4a4e6c",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/19-twin-room-wide.DAPD98y__Z1BhBWH.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/19-twin-room-wide.DAPD98y__Z1BhBWH.avif",
+      "bytes": 10433,
+      "sha256": "d299c96265142bd54cb3235175445a588fbfcb09696291014970ae091caefab8",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/19-twin-room-wide.DAPD98y__Z1Ykavf.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/19-twin-room-wide.DAPD98y__Z1Ykavf.avif",
+      "bytes": 35380,
+      "sha256": "a709f1aaa379ceb1f0697a90108855ed9a0a441c652df06d50a7ae896c680f98",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/19-twin-room-wide.DAPD98y__bXNrQ.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/19-twin-room-wide.DAPD98y__bXNrQ.avif",
+      "bytes": 90862,
+      "sha256": "eaaa9706d0fabe93f9be0597e84bfdda9511a571c12dda74591d0e85cf9671d9",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/20-twin-room-outlook.w1O0AZxu.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/20-twin-room-outlook.webp",
+      "bytes": 201530,
+      "sha256": "ceaa264f7d9976f0065d5f07c61e42fcc766cad10a8b35081959103499234660",
+      "kind": "original",
+      "source": "src/assets/images/20-twin-room-outlook.webp"
+    },
+    {
+      "output": "_astro/20-twin-room-outlook.w1O0AZxu_1BBP6O.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/20-twin-room-outlook.w1O0AZxu_1BBP6O.avif",
+      "bytes": 10077,
+      "sha256": "d52d5fe3a3ca2dc60111b611eee4504962321a8890ebf596ed5b7eff930eeb09",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/20-twin-room-outlook.w1O0AZxu_2lPMPJ.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/20-twin-room-outlook.w1O0AZxu_2lPMPJ.webp",
+      "bytes": 70732,
+      "sha256": "4ff3ca5363cce823c8fd4e7eadb422e1b1a1c9f60d03dbe92e1fcf908695a1bf",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/20-twin-room-outlook.w1O0AZxu_Z1IbIzK.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/20-twin-room-outlook.w1O0AZxu_Z1IbIzK.avif",
+      "bytes": 84397,
+      "sha256": "591060e03ab6ea064d7b5c00ba5cd1e31574c0264931da8d8ba6e94bc6ee0d2c",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/20-twin-room-outlook.w1O0AZxu_ZO6x7D.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/20-twin-room-outlook.w1O0AZxu_ZO6x7D.webp",
+      "bytes": 176694,
+      "sha256": "305c1efce7c9ea8317dce331517244307faea06e49f47cb68481d5c62fff428f",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/20-twin-room-outlook.w1O0AZxu_ZR6CrI.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/20-twin-room-outlook.w1O0AZxu_ZR6CrI.avif",
+      "bytes": 33989,
+      "sha256": "7c70d417b8e77d2b0ba26886e4f8b5d18e0cf94624997011351515c75ec34d60",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/20-twin-room-outlook.w1O0AZxu_ZeBRoE.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/20-twin-room-outlook.w1O0AZxu_ZeBRoE.webp",
+      "bytes": 20640,
+      "sha256": "768f63156f700250a712d45ce08cc8367d383ff37f7b787eb1e46c59b57cc80e",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/21-twin-room-bathroom.Bm4YJ5-h.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/21-twin-room-bathroom.webp",
+      "bytes": 136674,
+      "sha256": "b998e02cde04abda20578325b7c1949edc746f29aef119c28fadd4c48a56ae4c",
+      "kind": "original",
+      "source": "src/assets/images/21-twin-room-bathroom.webp"
+    },
+    {
+      "output": "_astro/21-twin-room-bathroom.Bm4YJ5-h_1kC1UY.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/21-twin-room-bathroom.Bm4YJ5-h_1kC1UY.webp",
+      "bytes": 117656,
+      "sha256": "9a35f3291ec662af025a81f677746a9bb9527f92395b6dcc4866c585eac9424c",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/21-twin-room-bathroom.Bm4YJ5-h_Z1e14fT.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/21-twin-room-bathroom.Bm4YJ5-h_Z1e14fT.avif",
+      "bytes": 65082,
+      "sha256": "0e7b650a208af9852f1eb23aa50c281975ce95a2d73862d09437bf5e55497666",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/21-twin-room-bathroom.Bm4YJ5-h_Z1isWKA.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/21-twin-room-bathroom.Bm4YJ5-h_Z1isWKA.webp",
+      "bytes": 78450,
+      "sha256": "a44d3f1da3c261dbe38a436ffffba54b636440ae752e77db1a978eec632896ca",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/21-twin-room-bathroom.Bm4YJ5-h_Z22RE9v.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/21-twin-room-bathroom.Bm4YJ5-h_Z22RE9v.webp",
+      "bytes": 30140,
+      "sha256": "6973d4f994b4b3b474cf7b9e26f946486bae67b5b9a6ceb11ca74bff8b3ca89e",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/21-twin-room-bathroom.Bm4YJ5-h_Z2cy9dH.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/21-twin-room-bathroom.Bm4YJ5-h_Z2cy9dH.avif",
+      "bytes": 46135,
+      "sha256": "cc7f5bbd0c7599c84873ac9c4c71eb4137342f41a87c978e55a79898cc3404f2",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/21-twin-room-bathroom.Bm4YJ5-h_ZqA8a3.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/21-twin-room-bathroom.Bm4YJ5-h_ZqA8a3.avif",
+      "bytes": 16082,
+      "sha256": "74ed669fbae630e0d18f4e5df04bb8ddf5cf1bd18a6e893801a3b1a8b2a8d5c1",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/22-twin-room-detail.DKROiSAf.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/22-twin-room-detail.webp",
+      "bytes": 182502,
+      "sha256": "12c64cf05de7163772226c754f13679be0293ff63a187c29f6927686b0cd710a",
+      "kind": "original",
+      "source": "src/assets/images/22-twin-room-detail.webp"
+    },
+    {
+      "output": "_astro/22-twin-room-detail.DKROiSAf_1jiN9o.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/22-twin-room-detail.DKROiSAf_1jiN9o.avif",
+      "bytes": 54984,
+      "sha256": "2399f9da4199f964edb46a2c817c28910d3ddff9937ab1680e73d4ff8e2e3a19",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/22-twin-room-detail.DKROiSAf_2rmKrT.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/22-twin-room-detail.DKROiSAf_2rmKrT.webp",
+      "bytes": 158806,
+      "sha256": "30e2c00019468ecc383ce179c5ced6e970c24159a9bcd605ece9723addec05f0",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/22-twin-room-detail.DKROiSAf_8WDAn.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/22-twin-room-detail.DKROiSAf_8WDAn.webp",
+      "bytes": 33274,
+      "sha256": "4f02a1859cf504f3f9b3a2fd23040b5f7479d9ae7dd5c16ea36f1d893d5b76f8",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/22-twin-room-detail.DKROiSAf_Z11wQmz.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/22-twin-room-detail.DKROiSAf_Z11wQmz.avif",
+      "bytes": 80997,
+      "sha256": "f0f5e5f955bbd6d97a0218dbac84dbdf5a8643c51f6a7db4384f183cace2258b",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/22-twin-room-detail.DKROiSAf_Zrp5o9.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/22-twin-room-detail.DKROiSAf_Zrp5o9.avif",
+      "bytes": 16855,
+      "sha256": "b1b1079ee95d26a640a68ec94e5266db136dd025c087a7594a8238986e75840e",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/22-twin-room-detail.DKROiSAf_ZwUTm5.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/22-twin-room-detail.DKROiSAf_ZwUTm5.webp",
+      "bytes": 100220,
+      "sha256": "3f200d9a603d02d27446187eee42b1472187925f9c6567e88dd62b7f08a10db6",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/23-breakfast-detail.DgHcO-ps.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/23-breakfast-detail.webp",
+      "bytes": 136364,
+      "sha256": "bff8c8ddf1475eaf19a4e10683f9a76bad4254b791da43bafc79c0b87dcb01dd",
+      "kind": "original",
+      "source": "src/assets/images/23-breakfast-detail.webp"
+    },
+    {
+      "output": "_astro/23-breakfast-detail.DgHcO-ps_1JNkCk.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/23-breakfast-detail.DgHcO-ps_1JNkCk.avif",
+      "bytes": 64978,
+      "sha256": "a267f090e54db5c7e479b03f5ff860436c14db56a5358503a29d3296764f72a9",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/23-breakfast-detail.DgHcO-ps_1xt0V8.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/23-breakfast-detail.DgHcO-ps_1xt0V8.webp",
+      "bytes": 35932,
+      "sha256": "60b9c10da2e3110665e0f28e7b0cb8b0943c64cef5f9dfd719cd503ca393a8f8",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/23-breakfast-detail.DgHcO-ps_8vNCR.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/23-breakfast-detail.DgHcO-ps_8vNCR.webp",
+      "bytes": 121310,
+      "sha256": "d8be4f7fdd1c7e7e043f5c053023b681871233ce6fc81e7c28aa8226b8cb820f",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/23-breakfast-detail.DgHcO-ps_QzrXF.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/23-breakfast-detail.DgHcO-ps_QzrXF.webp",
+      "bytes": 86196,
+      "sha256": "78f30f25ee108d8ee5bf83ee5efcb3797f037134cd293ef0f122c35e96e0a924",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/23-breakfast-detail.DgHcO-ps_W6gVB.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/23-breakfast-detail.DgHcO-ps_W6gVB.avif",
+      "bytes": 18550,
+      "sha256": "336863b766b472d887ff81b52a5df4c920fa7d6833a96f658af0dd4d9d9c2b47",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/23-breakfast-detail.DgHcO-ps_Z2mmXjM.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/23-breakfast-detail.DgHcO-ps_Z2mmXjM.avif",
+      "bytes": 47959,
+      "sha256": "ed834d415d2f00026fbd5dcc4688ec009c58747b1b61d7647593851cb3546f2e",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/24-linen-detail.CuYDJaOm.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/24-linen-detail.webp",
+      "bytes": 171254,
+      "sha256": "dab90c37fe9a8960db6880b69297e71f19b2eb3998dd7d3f921589c11cffdfd4",
+      "kind": "original",
+      "source": "src/assets/images/24-linen-detail.webp"
+    },
+    {
+      "output": "_astro/24-linen-detail.CuYDJaOm_2x18uG.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/24-linen-detail.CuYDJaOm_2x18uG.avif",
+      "bytes": 76202,
+      "sha256": "23266f313f3b8983eb2ec98fbf5753cd842b446d480d8e938d84cb39b74a6528",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/24-linen-detail.CuYDJaOm_LyEd8.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/24-linen-detail.CuYDJaOm_LyEd8.webp",
+      "bytes": 150164,
+      "sha256": "9556ba470659eae2837b67862a794ec4f8c11f533791c790e49f8f232546a5ac",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/24-linen-detail.CuYDJaOm_Z1Aqwo.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/24-linen-detail.CuYDJaOm_Z1Aqwo.webp",
+      "bytes": 38684,
+      "sha256": "9aca50cb6cd9a0c5e988870eb227c1a15ef8c68fbc557551b42f1f6264b08346",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/24-linen-detail.CuYDJaOm_Z1nNmw.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/24-linen-detail.CuYDJaOm_Z1nNmw.avif",
+      "bytes": 55662,
+      "sha256": "be8d35b26214be6f411825c8036094d39b58f9b2efdc5819427ed47e184bb440",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/24-linen-detail.CuYDJaOm_Z2wW7lF.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/24-linen-detail.CuYDJaOm_Z2wW7lF.webp",
+      "bytes": 101924,
+      "sha256": "af1b612e19f2bc82c89c41c214103217118713578f58b4e51a94dd75b6dbf8fb",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/24-linen-detail.CuYDJaOm_ZUFBsj.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/24-linen-detail.CuYDJaOm_ZUFBsj.avif",
+      "bytes": 19071,
+      "sha256": "ac4f179c5db32688b4d7ba438d75badda6ddb23a1de3a731f1a7c7a5bc47dee6",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/25-courtyard-material-detail.CxpA80lx.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/25-courtyard-material-detail.webp",
+      "bytes": 212438,
+      "sha256": "a64b7e8f6e4b082362c1dfa3ad10ffd7425115d51f62aeac6fd3f77d70ae76d1",
+      "kind": "original",
+      "source": "src/assets/images/25-courtyard-material-detail.webp"
+    },
+    {
+      "output": "_astro/25-courtyard-material-detail.CxpA80lx_15LoRY.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/25-courtyard-material-detail.CxpA80lx_15LoRY.webp",
+      "bytes": 188682,
+      "sha256": "58c8186f80b8b04d1f41dd838067b924d238bf3675cb5b0032936f4586f30ecc",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/25-courtyard-material-detail.CxpA80lx_17Q4UE.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/25-courtyard-material-detail.CxpA80lx_17Q4UE.avif",
+      "bytes": 106294,
+      "sha256": "8910abd911679a5210f7e7a5210195d4668bff073d0f88a68de04aaa431ee2db",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/25-courtyard-material-detail.CxpA80lx_85aLz.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/25-courtyard-material-detail.CxpA80lx_85aLz.avif",
+      "bytes": 27134,
+      "sha256": "8ecc8b90b9dbf3dcdb637c9635b18ee13cfe54c48a624c4d8f8ca43ba42da4be",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/25-courtyard-material-detail.CxpA80lx_Z2iI4lc.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/25-courtyard-material-detail.CxpA80lx_Z2iI4lc.webp",
+      "bytes": 51176,
+      "sha256": "23ae6bfbdb7d98a29f83042e8ffc4ac097d049bf8beeeaaeeecadb5700592ddc",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/25-courtyard-material-detail.CxpA80lx_Zh6r5Q.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/25-courtyard-material-detail.CxpA80lx_Zh6r5Q.avif",
+      "bytes": 76220,
+      "sha256": "08e2ad841654f2fff6dec428499f23ec4f647e1b9ef6bc69014314894dabf443",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/25-courtyard-material-detail.CxpA80lx_mQ2eh.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/25-courtyard-material-detail.CxpA80lx_mQ2eh.webp",
+      "bytes": 131090,
+      "sha256": "dd08dd7c2d8c1d4d6d8e891064882aa4bba5d1ca7aca3f0f9064265c19d837e3",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/26-tetouan-city.CM_G_hOL.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/26-tetouan-city.webp",
+      "bytes": 282414,
+      "sha256": "b4243ad277d5a3d047a97f5deb16926907055542ade81ae211bec792d571c8d0",
+      "kind": "original",
+      "source": "src/assets/images/26-tetouan-city.webp"
+    },
+    {
+      "output": "_astro/26-tetouan-city.CM_G_hOL_1Ye8xh.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/26-tetouan-city.CM_G_hOL_1Ye8xh.avif",
+      "bytes": 15460,
+      "sha256": "4d995c9c176a9ffe479bf2b6b1e4d7ab695d5eda9c784d972b0a1af87c24827b",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/26-tetouan-city.CM_G_hOL_Z1O7g0.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/26-tetouan-city.CM_G_hOL_Z1O7g0.avif",
+      "bytes": 50146,
+      "sha256": "15fe0d5717344de38890ae4ef03a0e37475862b8f3565b7382903a1761f11ceb",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/26-tetouan-city.CM_G_hOL_Z2s8AKc.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/26-tetouan-city.CM_G_hOL_Z2s8AKc.webp",
+      "bytes": 97420,
+      "sha256": "ede74719142f03d7496488b76a631ca2508b9dd06e44803716b54855c239c6cd",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/26-tetouan-city.CM_G_hOL_Zk1Qn8.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/26-tetouan-city.CM_G_hOL_Zk1Qn8.avif",
+      "bytes": 131187,
+      "sha256": "d19d73a5d5afd04c6647b78edabbfbda0df781c8a4d94d7dcc36ab769a4eeba6",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/26-tetouan-city.CM_G_hOL_Zr5kVU.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/26-tetouan-city.CM_G_hOL_Zr5kVU.webp",
+      "bytes": 30158,
+      "sha256": "8c1be7ec0f5b6abd6304041f8b8d83d3b12f8a0f75429f7b816e84de70f8e82e",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/26-tetouan-city.CM_G_hOL_z3jxM.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/26-tetouan-city.CM_G_hOL_z3jxM.webp",
+      "bytes": 263072,
+      "sha256": "3a3dbe945e89c1a5b2beacb26528bbe4ebb457bfbbf0c60c0f140a0fcc14e73b",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/27-tetouan-lane.DDc1bc5P.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/27-tetouan-lane.webp",
+      "bytes": 310824,
+      "sha256": "15319e25467afb5e6cfd69a2fb0b2a3910d215d464d70bedd1c9a838cf20a406",
+      "kind": "original",
+      "source": "src/assets/images/27-tetouan-lane.webp"
+    },
+    {
+      "output": "_astro/27-tetouan-lane.DDc1bc5P_2jbtuL.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/27-tetouan-lane.DDc1bc5P_2jbtuL.webp",
+      "bytes": 286308,
+      "sha256": "2f96de0584c3bd478ebab17fa22df39615b2db7585e7517c122a3c518918576f",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/27-tetouan-lane.DDc1bc5P_2qfPYF.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/27-tetouan-lane.DDc1bc5P_2qfPYF.webp",
+      "bytes": 192672,
+      "sha256": "ebba942ddfee8d1bb6ca51dc0a45d56131a7fa528621ca0a7ed7d1026471bfae",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/27-tetouan-lane.DDc1bc5P_Z10yb1B.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/27-tetouan-lane.DDc1bc5P_Z10yb1B.avif",
+      "bytes": 136681,
+      "sha256": "1938c143b9c18338cda3f1dab57c1d5ba7f6ace33ebe6997e86f7af1bdb945b3",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/27-tetouan-lane.DDc1bc5P_Z12ELUT.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/27-tetouan-lane.DDc1bc5P_Z12ELUT.avif",
+      "bytes": 32951,
+      "sha256": "b9aad723e754b588567c7d869da5550f0dbf343dbde070db5ec8c5cd9672cdc3",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/27-tetouan-lane.DDc1bc5P_Z8mXP7.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/27-tetouan-lane.DDc1bc5P_Z8mXP7.avif",
+      "bytes": 96410,
+      "sha256": "6b58062da1108f3956815a88e3e47b29ee38778190b4cdf1d4d7d2c71a409f5b",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/27-tetouan-lane.DDc1bc5P_Z8zAYY.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/27-tetouan-lane.DDc1bc5P_Z8zAYY.webp",
+      "bytes": 69100,
+      "sha256": "c5da5b236da8c42934f40e6bd94922beef596da716b9120e4465b23691bef438",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/28-tetouan-craft-detail.BpgTKN3d.webp",
+      "key": "pfxamd/concepts/dar-sera/originals/28-tetouan-craft-detail.webp",
+      "bytes": 269684,
+      "sha256": "a3fba5536d18fb7f2855e770520d5624905336372a7ecc5748512100edc96130",
+      "kind": "original",
+      "source": "src/assets/images/28-tetouan-craft-detail.webp"
+    },
+    {
+      "output": "_astro/28-tetouan-craft-detail.BpgTKN3d_1Fnvbj.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/28-tetouan-craft-detail.BpgTKN3d_1Fnvbj.webp",
+      "bytes": 245568,
+      "sha256": "64ea9dc19316ca2dc721803af7674b697bc7873f74eb430b83343e62e65312b6",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/28-tetouan-craft-detail.BpgTKN3d_1l85Cm.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/28-tetouan-craft-detail.BpgTKN3d_1l85Cm.webp",
+      "bytes": 157704,
+      "sha256": "73545b4752b865ac11424c321137c92efd2676d3dd8e1a73d86280a8b4f67ed3",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/28-tetouan-craft-detail.BpgTKN3d_NuD6r.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/28-tetouan-craft-detail.BpgTKN3d_NuD6r.avif",
+      "bytes": 26965,
+      "sha256": "da62e64e8faa14146fcd289592c8533654f1a61018729c87e4b9c048595c360f",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/28-tetouan-craft-detail.BpgTKN3d_Z1H3ovB.webp",
+      "key": "pfxamd/concepts/dar-sera/responsive/28-tetouan-craft-detail.BpgTKN3d_Z1H3ovB.webp",
+      "bytes": 54040,
+      "sha256": "047d5eb3cb86043b7921cdff9717afe43e2dbdb71bb4d3e134530b20fa79fe09",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/28-tetouan-craft-detail.BpgTKN3d_Z1XJS84.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/28-tetouan-craft-detail.BpgTKN3d_Z1XJS84.avif",
+      "bytes": 86381,
+      "sha256": "4d2a1bcbe29c54055ec8465f6a62924d52c2443e66f18138d819b1404205b8e5",
+      "kind": "responsive"
+    },
+    {
+      "output": "_astro/28-tetouan-craft-detail.BpgTKN3d_gV1WM.avif",
+      "key": "pfxamd/concepts/dar-sera/responsive/28-tetouan-craft-detail.BpgTKN3d_gV1WM.avif",
+      "bytes": 128736,
+      "sha256": "e14fa6c52b2a5b4f48ff11afb0e05e52d94eec45405bbf37dcfe9bcce852d877",
+      "kind": "responsive"
+    },
+    {
+      "output": "favicon.svg",
+      "key": "pfxamd/concepts/dar-sera/favicon.svg",
+      "bytes": 290,
+      "sha256": "60b09f3e8ce75160c1ab5a7ebdadcf138c70e1799f8f4bb65ef07393b33efc3d",
+      "kind": "icon",
+      "source": "public/favicon.svg"
+    }
+  ]
+}

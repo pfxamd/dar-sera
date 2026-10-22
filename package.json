@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev --host 0.0.0.0",
-    "build": "astro check && astro build",
+    "build": "astro check && astro build && node scripts/publish-r2-media.mjs",
     "preview": "astro preview --host 0.0.0.0",
     "test": "node --test tests/*.test.mjs",
     "test:e2e": "playwright test",

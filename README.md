@@ -28,7 +28,7 @@ npm run preview
 - Four individual room pages, comparison table, and keyboard-accessible image galleries.
 - Three-level schematic house explorer with linked rooms and accessible selection controls.
 - Complete client-side demo stay planner: dates, room selection, computed nights/rate, contact fields, editable review, completion and safe summary copying.
-- All **28 supplied image assets**, locally stored, with responsive AVIF/WebP derivatives generated at build time.
+- All **28 supplied image assets** preserved in GitHub and byte-identical on R2, with the existing responsive AVIF/WebP variants served from `https://media.pfxamd.com/pfxamd/concepts/dar-sera/`.
 - Locally bundled Instrument Serif and Manrope fonts; custom responsive CSS; reduced-motion support.
 - Static output and custom 404 page. No database, payment processing, tracking scripts, or external booking service.
 
